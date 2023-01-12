@@ -3,7 +3,7 @@ Repo for a javascript clock that countdown to new year! Once it reachs 0 it adds
 
 [Visualize](https://geraldopmj.github.io/AnimatedLogo/)
 
-Resources used:
+# Resources used:
 
 Background image: https://www.pexels.com/photo/photo-of-fireworks-display-2526105/
 
