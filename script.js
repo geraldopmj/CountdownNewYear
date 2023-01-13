@@ -31,10 +31,5 @@ let myfunc = setInterval(function() { //function to calc how many days
         document.querySelector('.message').innerHTML = "Happy New Year!!!"; 
     };
 
-    if ((messMonth == nowMonth) && (messDay < nowDay)){//call the function to display Message
-        addYears(mess); 
-    };
-
-
     }, 1)//set interval to 1 to milliseconds
 
