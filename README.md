@@ -3,16 +3,16 @@ Repo for a javascript clock that countdown to new year! Once it reachs 0 it adds
 
 [Visualize](https://geraldopmj.github.io/CountdownNewYear/)
 
-# Resources used:
-
-Background image: https://www.pexels.com/photo/photo-of-fireworks-display-2526105/
-
 # Technology used:
 
 - Javascript
 - HTML
 - CSS
 - Git e Github
+
+# Resources used:
+
+Background image: https://www.pexels.com/photo/photo-of-fireworks-display-2526105/
 
 ## Contact:
 
