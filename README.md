@@ -1,5 +1,5 @@
 # Countdown to New Year
-Repo for a javascript clock that countdown to new year! Once it reachs 0 it adds one year again to reset the countdown.
+Repo for a javascript clock that countdown to new year! Once it reachs 0 it adds one year again to reset the countdown and change the background to show fireworks o january first.
 
 [Visualize](https://geraldopmj.github.io/CountdownNewYear/)
 
