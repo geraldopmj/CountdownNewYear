@@ -3,7 +3,6 @@ html, body{
     flex-direction:column;
     align-items: center;  
     background: black;
-    background-image: url(./img/bckgrnd.jpg);
     background-size: cover;
     margin: 0px;
     padding: 0px;
